@@ -1,1 +1,3 @@
-# My-LeetCode
+# MyLeetCode
+
+LeetCode Practice Notes
